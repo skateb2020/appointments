@@ -1,0 +1,8 @@
+first_name,last_name,dob,appointment_date,appointment_time,phone_number,street_address,city,state,zip
+George,Washington,2/22/1932,10/4/2023,11 am,1212121212,123 Washington St,Mount Vernon,Virginia,10550
+Bob,Smith,4/8/1995,12/2/2023,2 pm,1234567890,123 Example Rd,Bobsville,New York,11223
+Sally,Hansen,7/8/2000,11/20/2023,3 pm,4431567892,123 Beauty Circle,Beautiful,Arizona,44221
+John,Doe,9/8/2000,11/20/2023,10 am,1234567894,123 Memphis St.,Durham,North Carolina,27517
+Lucie,Manette,12/14/1989,11/20/2023,10 am,7894561235,682 Chelmsford Ave,Portland,Oregon,97035
+Taylor,Swift,12/13/1989,5/8/2024,11 am,6254567859,252 Famous People Lane,New York,New York,45421
+T,L,12/13/1989,5/8/2024,3 pm,6254567859,252 Famous People Lane,New York,New York,45421
